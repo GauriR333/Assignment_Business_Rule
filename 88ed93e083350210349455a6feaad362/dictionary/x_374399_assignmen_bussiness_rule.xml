@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" db_object_id="b92e97a883350210349455a6feaad353" extends="task" label="Incident Temp" max_length="40" name="x_374399_assignmen_bussiness_rule" type="collection">
+        <element label="Incident Number" max_length="40" name="incident_number" type="string"/>
+        <element label="Short Discription" max_length="40" name="short_discription" type="string"/>
+    </element>
+</database>
